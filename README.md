@@ -1,7 +1,7 @@
 # Contact-Book
 # Contact Management System in C++
 
-This repository contains a simple Contact Management System implemented in C++.  It allows users to store, search, sort, add, and display contact information.
+This repository contains a simple Contact Management System implemented in C++.  It allows users to store, search, sort, add, delete and display contact information.
 
 ## Overview
 
@@ -45,11 +45,9 @@ The `contacts` struct is defined globally to hold the contact information.
 
 ## Future Improvements
 
-* **Data Persistence:** Implement file I/O to save and load contacts from a file (e.g., using `fstream`).
 * **Cross-Platform Compatibility:** Replace Windows-specific functions (`conio.h`, `system("cls")`) with cross-platform alternatives.
-* **Robust Input Validation:** Add more thorough input validation to prevent errors.
+* **Robust Input Validation:** Adding more thorough input validation to prevent errors.
 * **Search by other criteria:** Allow searching by phone number, email, etc.
-* **Deleting Contacts:** Implement functionality to delete existing contacts.
 * **Error Handling:** Improve error handling to make the program more robust.
 * **User Interface Enhancements:** Consider using a more advanced UI library for a better user experience.
 

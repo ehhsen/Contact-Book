@@ -1,5 +1,5 @@
 # Contact-Book
-<img src= "https://github.com/ehhsen/Contact-Book/edit/contact.jpg">
+<img src= "https://github.com/ehhsen/Contact-Book/blob/main/contact.jpg" >
 # Contact Management System in C++
 
 This repository contains a simple Contact Management System implemented in C++.  It allows users to store, search, sort, add, delete and display contact information.
